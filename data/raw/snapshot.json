@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/Vadimkin/ukrainian-air-raid-sirens-dataset",
+  "commit": "d10c80fa696bab42822b9f05b423fc8a30e79d20",
+  "downloaded_at_utc": "2026-10-12T16:45:59.167793+00:00",
+  "reproduce_with": "python -m src.fetch_data --commit d10c80fa696bab42822b9f05b423fc8a30e79d20",
+  "files": {
+    "volunteer_data_en.csv": {
+      "sha256": "b6c0160f0b4e6a83fa0d6f5dfbf1a3c623b6122819d37185f99b57d7587da14b",
+      "bytes": 8921292
+    },
+    "official_data_en.csv": {
+      "sha256": "b396f87696243069eec0219880e87dcd642b20beb0a7bae0d0e1f61e1ed20ec4",
+      "bytes": 31025633
+    }
+  }
+}

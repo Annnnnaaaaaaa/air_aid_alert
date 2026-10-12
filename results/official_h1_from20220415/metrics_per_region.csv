@@ -1,0 +1,25 @@
+region,positive_rate,mean_pred,brier_gb,brier_clim,auc_gb,auc_clim
+Ivano-Frankivska oblast,0.0,0.0077,0.0007,0.0002,,
+Donetska oblast,0.0,0.0009,0.0,0.0005,,
+Lvivska oblast,0.0,0.0065,0.0002,0.0002,,
+Zakarpatska oblast,0.0,0.0064,0.0002,0.0002,,
+Dnipropetrovska oblast,0.003,0.0018,0.003,0.0028,0.2448,0.9806
+Chernivetska oblast,0.006,0.0158,0.0058,0.0057,0.7769,0.9401
+Volynska oblast,0.0089,0.0127,0.009,0.0091,0.5846,0.4369
+Ternopilska oblast,0.0149,0.0185,0.014,0.015,0.9547,0.4366
+Rivnenska oblast,0.0298,0.0278,0.0257,0.0297,0.9117,0.4914
+Khmelnytska oblast,0.0327,0.0354,0.03,0.0327,0.8934,0.4452
+Vinnytska oblast,0.0655,0.0739,0.0555,0.063,0.749,0.5415
+Zhytomyrska oblast,0.0744,0.0936,0.0641,0.0754,0.7486,0.5054
+Cherkaska oblast,0.1548,0.1422,0.1217,0.1349,0.6873,0.5142
+Kyiv City,0.1607,0.1028,0.1213,0.1423,0.7722,0.5382
+Kyivska oblast,0.1756,0.1556,0.133,0.1522,0.662,0.4816
+Kharkivska oblast,0.1815,0.1654,0.1037,0.1374,0.781,0.7124
+Zaporizka oblast,0.1815,0.1458,0.0943,0.1381,0.8755,0.7028
+Kirovohradska oblast,0.2113,0.2214,0.1627,0.1776,0.635,0.4494
+Sumska oblast,0.2351,0.1725,0.1392,0.1803,0.7422,0.6127
+Chernihivska oblast,0.25,0.2253,0.1484,0.1904,0.7955,0.5112
+Poltavska oblast,0.2649,0.2635,0.1782,0.1983,0.6894,0.5532
+Khersonska oblast,0.2887,0.2901,0.1887,0.2007,0.6793,0.596
+Odeska oblast,0.375,0.3786,0.2143,0.2385,0.6738,0.5373
+Mykolaivska oblast,0.378,0.3761,0.2117,0.2337,0.6884,0.5749

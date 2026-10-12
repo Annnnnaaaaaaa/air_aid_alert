@@ -1,0 +1,6 @@
+data/raw/*.csv
+models/
+__pycache__/
+.venv/
+*.pyc
+.idea/
